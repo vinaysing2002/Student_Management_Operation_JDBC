@@ -54,7 +54,6 @@ public class Complete_CRUD {
 				}
 			}
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} finally {
 			if (sc != null) {
